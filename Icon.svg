@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40">
+	<title>Icon</title>
+	<defs>
+		<image width="224" height="112" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOAAAABwBAMAAAD1ZWGRAAAAD1BMVEVHcEzlLgrmLQnnLAzmLQpWo8tOAAAABHRSTlMAgL9ARyeO/QAAAn9JREFUaN7tllmWqyAQhhGyAE2yALVdAFEX0CD7X1NDVTGYmFbvzTn9Uv+DyFQfQ1EgBIvFYrFYLBaLxWKxWCwWi/VHGgfn+q65QUZdB2dqrHj0zjWhbPLSQkyYUlb1rtPUw/r++iBOeRxK5xwQR/g1QlwovYf0G7ML5JbYChscUuhnE9DnbI//lU/6IRiKwLkEVoiFZDgBDB2+hBgyRIdvDWyYlcVBBXsDAHFuQG/hv4Z+5vAEoymdcnMA4sqqAJQulgMwZBdY37rCkuNA6lAALZTioNswIpvtXQog7AKU1GeAkjyEgA6BgoBhKHIbaMPOmbgkx4EzOUsGBs8TQ42uEQa/DXTW77UR7iww7IRIQBXPxEhAfyJVtw2Ek6NogMeBA61hMUM87GiVYsAWcOUCp4CmAA6ZKOk819tA849AtwbOBaUIIFtemnyu/R9gRRRbwJdPA8s9xHCJVhL8o8AnpxHqvl5IhL8FvuzhdDsJFNU9TkuIBoHf74HqCSh3J7o+h2JKRKF0JOKVYN8By3OYDujhSJMcR8slznEHaDOwcqnmN2BbAKMHOIihdBNtAU3aEpeBl7Qbvwbv4nrC4cHGSlgbCQhF9/MrcM4efQyocNVHF0ObRivGWzVU32KrVkzDCzAgjFYjgvDo7rqpy+EFd+AezMp00elVq2UFrHKFPTTDFE/wpeG/N4JIiNxzvupzqJPxBZQGbHHA8sjbBh9A9D4q2JV7it7e7IgzkC4TsabFElr6/UeG1bL3auMh/IJXaeZRyKvVKxBqOnEN/TU8UXbfp6rpijaPa99NsaLvb7GqCfY29bgW4Wxli8VisVgsFovFYrFYLBaLxWJ9UD+CqjJC7RxLagAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Assura_xnpcr2" href="#img1" transform="matrix(1.148,0,0,1.148,-29,-44)"/>
+</svg>
